@@ -39,6 +39,5 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  return array.pop
-  return array.pop
+  return array.pop(2)
 end
